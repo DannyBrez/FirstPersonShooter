@@ -20,7 +20,7 @@ With the tutorial complete, further work is planned for this game to further my 
 - Multiple Levels
 - Different Enemies
 - Different Weapons
-- Endless Game Mode (Consistant Waves of Enemies)
-- Diffculty Levels
+- Endless Game Mode (Consistent Waves of Enemies)
+- Difficulty Levels
 
 
