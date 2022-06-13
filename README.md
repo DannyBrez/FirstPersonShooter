@@ -3,6 +3,8 @@ This game is a work in progress using a tutorial to learn Unreal Engine 5 and it
 
 The completed tutorial can be found on GameDev.tv here: https://www.gamedev.tv/p/unreal-engine-5-blueprints
 
+The current version of the game can be found here: https://dannybrez.itch.io/
+
 **Learned so far**
 - Unreal Engine 5 (Basics, Navigation of Viewport, File Organisation, etc)
 - Blueprint system (Basics, Variables, Functions, Execution Flow, Macros, etc)
